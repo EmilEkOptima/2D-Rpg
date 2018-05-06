@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Tiled2Unity generated xml data-->
+<!--Do not modify by hand-->
+<!--Last exported: 08/04/2018 15.19.14-->
+<Tiled2Unity version="1.0.13.2">
+  <Prefab name="MainSpawn-1" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="3" numTilesWide="75" numTilesHigh="75" tileWidth="16" tileHeight="16" exportScale="1" mapWidthInPixels="1200" mapHeightInPixels="1200" backgroundColor="#808080">
+    <GameObject name="Tile Layer 1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+    </GameObject>
+    <GameObject name="Tile Layer 2" x="0" y="0" z="-0.0133333337">
+      <TileLayer offsetX="0" offsetY="0" />
+    </GameObject>
+    <GameObject name="Stuff" x="0" y="0" z="-0.0266666673">
+      <TileLayer offsetX="0" offsetY="0" />
+    </GameObject>
+  </Prefab>
+</Tiled2Unity>
